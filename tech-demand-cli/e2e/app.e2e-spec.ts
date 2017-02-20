@@ -1,6 +1,6 @@
 import { TechDemandCliPage } from './app.po';
 
-describe('tech-demand-cli App', function() {
+describe('tech-demand-cli App', () => {
   let page: TechDemandCliPage;
 
   beforeEach(() => {
